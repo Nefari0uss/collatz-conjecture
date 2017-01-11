@@ -1,9 +1,10 @@
-# Calculate Pi using Leibniz's Formula
+# Collatz Conjecture - Hailstone Series Generator
 
 ## Author: [nefari0uss](https://www.github.com/nefari0uss)
 
 ![language java](https://img.shields.io/badge/language-Java-blue.svg "Language Java")
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Build Status](https://travis-ci.org/Nefari0uss/collatz-conjecture.svg?branch=master)](https://travis-ci.org/Nefari0uss/collatz-conjecture)
 
 ## Summary
 This program will do the Collatz Conjecture. It takes a integer input and finds the number of steps to reach one using the following algorithm:
@@ -20,4 +21,4 @@ More information can be found on [Wikipedia](https://en.wikipedia.org/wiki/Colla
 
 
 ## Asciicast
-
+[![asciicast](https://asciinema.org/a/98864.png)](https://asciinema.org/a/98864)
